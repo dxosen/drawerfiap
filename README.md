@@ -17,3 +17,7 @@ desenvolva um programa em Linguagem Java para realizar o ranking das equipes par
 4. Após a entrada de todos os dados, o programa deverá gerar uma lista de classificação ordenada pela pontuação. Para a classificação das equipes deve-se considerar que cada vitória equivale a 5 pontos, cada empate equivale a 3 pontos e cada derrota equivale a 0 pontos.
 
 Observação: Caso haja empates entre as equipes, será utilizada a nota de design para definir o desempate, ou seja, a equipe com a maior nota de design terá vantagem na classificação (apenas se houver empates).
+
+
+![robo1](https://user-images.githubusercontent.com/90010767/217991759-70c6323e-7870-42b0-856c-0a5b83504ed9.png)
+    (IMAGEM EXEMPLO)
